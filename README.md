@@ -4,4 +4,5 @@ You can do a full port scan by selecting option (1) and top port scan using opti
     
 Scanner Formatting:
 
-# ipaddress - startport - endport   
+*ipaddress - startport - endport   
+
